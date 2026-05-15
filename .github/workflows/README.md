@@ -24,9 +24,8 @@ Each YAML file defines a GitHub Action that runs automatically to keep the bot h
 
 ## 🧭 Visual Diagram
 
-![Workflow Diagram](path/to/your/diagram.png)
+![Workflow Diagram](freqtrade-BotG/docs/assets/Workflow_FreqTrade-BotG.png)
 
-> Replace `path/to/your/diagram.png` with the actual relative path to your saved image.
 
 ---
 
