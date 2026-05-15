@@ -24,7 +24,7 @@ Each YAML file defines a GitHub Action that runs automatically to keep the bot h
 
 ## 🧭 Visual Diagram
 
-![Workflow Diagram](freqtrade-BotG/docs/assets/Workflow_FreqTrade-BotG.png)
+![Workflow Diagram](https://github.com/Pokrel/freqtrade-BotG/blob/develop/docs/assets/Workflow_FreqTrade-BotG.png)
 
 
 ---
